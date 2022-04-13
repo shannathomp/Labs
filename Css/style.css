@@ -1,0 +1,42 @@
+
+
+.image1{
+    display:grid;
+    margin-left: auto;
+    Margin-right: auto;
+    width:10%;
+    
+}
+.foot-img{
+    width: auto;
+    height: 100px;
+    position: flex;
+    margin:39px;
+
+}
+footer{
+    background-image: url(/image/bgimagebluehead.jfif);
+    width: auto;
+}
+header{
+    background-image: url(/image/bgimagebluehead.jfif);
+    width: auto;
+ 
+    
+}
+h3{
+    text-decoration: underline;
+}
+nav{
+    font-size: 30px;
+    padding: 25px;
+}
+table{
+    border:solid;
+    width:50%;
+    border-color:blueviolet
+}
+table hr{
+    height:3px;
+    background-color: green;
+}
